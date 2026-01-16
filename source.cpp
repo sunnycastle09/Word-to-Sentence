@@ -87,7 +87,7 @@ void Data() {
         }
     }
 }
-void sentense() { // Populate the vector with sentences
+void sentense() {
    int i = 0;
    std::string tmp;
    for (;;) {
